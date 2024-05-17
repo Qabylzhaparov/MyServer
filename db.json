@@ -97,14 +97,6 @@
       "category": "Закуски"
     },
     {
-      "id": "13",
-      "img": "https://food.pibig.info/uploads/posts/2023-03/1677988143_food-pibig-info-p-midii-v-slivochno-chesnochnom-sirnom-souse-11.jpg",
-      "name": "Мидии в сливочном соусе",
-      "dsc": "Мидии, обжаренные в сливочном соусе с чесноком и зеленью",
-      "price": 5500,
-      "category": "Закуски"
-    },
-    {
       "id": "14",
       "img": "https://static.tildacdn.com/tild3765-6538-4736-b534-353834653163/IMG_9458.jpg",
       "name": "Брускетта с авокадо",
@@ -237,6 +229,14 @@
       "category": "Салаты"
     },
     {
+      "id": "10",
+      "img": "https://italoamericano.org/wp-content/uploads/2020/08/Antonino-Danna-1024x683.jpg",
+      "name": "Салат Капрезе",
+      "dsc": "Итальянский салат с помидорами, моцареллой и базиликом",
+      "price": 2700,
+      "category": "Салаты"
+    },
+    {
       "id": "14",
       "img": "https://i.pinimg.com/originals/e1/b8/d6/e1b8d65b9554ce589ac81f4d9b98624e.jpg",
       "name": "Брускетта с помидорами",
@@ -251,14 +251,6 @@
       "dsc": "Пицца с пепперони, сыром и томатным соусом",
       "price": 4200,
       "category": "Пицца"
-    },
-    {
-      "id": "13",
-      "img": "https://food.pibig.info/uploads/posts/2023-03/1677988143_food-pibig-info-p-midii-v-slivochno-chesnochnom-sirnom-souse-11.jpg",
-      "name": "Мидии в сливочном соусе",
-      "dsc": "Мидии, обжаренные в сливочном соусе с чесноком и зеленью",
-      "price": 5500,
-      "category": "Закуски"
     },
     {
       "id": "18",
