@@ -195,38 +195,6 @@
       "dsc": "Итальянская паста с беконом, яйцом, сливками и пармезаном",
       "price": 2400,
       "category": "Горячие Блюда"
-    },
-    {
-      "id": "7",
-      "img": "https://cake-dance.ru/wp-content/uploads/7/3/4/734f4dd223c9ca7b925999b96f4eec0e.jpeg",
-      "name": "Цезарь с курицей",
-      "dsc": "Салат Цезарь с кусочками куриного мяса, пармезаном и хрустящими сухариками",
-      "price": 2700,
-      "category": "Салаты"
-    },
-    {
-      "id": "10",
-      "img": "https://italoamericano.org/wp-content/uploads/2020/08/Antonino-Danna-1024x683.jpg",
-      "name": "Салат Капрезе",
-      "dsc": "Итальянский салат с помидорами, моцареллой и базиликом",
-      "price": 2700,
-      "category": "Салаты"
-    },
-    {
-      "id": "18",
-      "img": "https://miapizza.kz/assets/images/menu/pizza/pizza-4-cheese/pizza-4-cheese.jpg",
-      "name": "Четыре сыра",
-      "dsc": "Пицца с моцареллой, горгонзолой, пармезаном и дорблю",
-      "price": 4700,
-      "category": "Пицца"
-    },
-    {
-      "id": "21",
-      "img": "https://argumentrus.ru/wp-content/uploads/f/1/b/f1be4f9de166c6b47fc503fd0b3eb124.jpeg",
-      "name": "Ягодный лимонад",
-      "dsc": "Лимонад с ягодами и лимоном, подается со льдом",
-      "price": 2000,
-      "category": "Лимонады"
     }
   ]
 }
