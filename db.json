@@ -237,22 +237,6 @@
       "category": "Салаты"
     },
     {
-      "id": "14",
-      "img": "https://i.pinimg.com/originals/e1/b8/d6/e1b8d65b9554ce589ac81f4d9b98624e.jpg",
-      "name": "Брускетта с помидорами",
-      "dsc": "Хрустящий багет, запеченный с помидорами, базиликом и оливковым маслом",
-      "price": 2400,
-      "category": "Закуски"
-    },
-    {
-      "id": "16",
-      "img": "https://vostorg.buzz/uploads/posts/2022-03/1646903453_35-vostorg-buzz-p-pepperoni-ostraya-86.jpg",
-      "name": "Пепперони",
-      "dsc": "Пицца с пепперони, сыром и томатным соусом",
-      "price": 4200,
-      "category": "Пицца"
-    },
-    {
       "id": "18",
       "img": "https://miapizza.kz/assets/images/menu/pizza/pizza-4-cheese/pizza-4-cheese.jpg",
       "name": "Четыре сыра",
