@@ -1,115 +1,4 @@
-{
-  "cuisine": [
-    {
-      "id": "1",
-      "img": "https://klike.net/uploads/posts/2022-08/1660803998_6-14.jpg",
-      "name": "Стейк с травами",
-      "dsc": "Нежный стейк из говядины, подается с ароматными травами",
-      "price": 8700,
-      "category": "Горячие Блюда"
-    },
-    {
-      "id": "2",
-      "img": "https://img.povar.ru/main/a9/59/a1/a9/losos_na_grile-75256.jpg",
-      "name": "Лосось гриль",
-      "dsc": "Сочный лосось, запеченный на гриле, подается с лимоном и зеленью",
-      "price": 6700,
-      "category": "Горячие Блюда"
-    },
-    {
-      "id": "3",
-      "img": "https://pazlyigra.ru/uploads/posts/2023-11/1639192630_87-celes-club-p-kuritsa-na-uglyakh-ptitsi-krasivo-foto-96.jpg",
-      "name": "Курица табака",
-      "dsc": "Ароматная курица, запеченная под прессом, с картофельными дольками",
-      "price": 4300,
-      "category": "Горячие Блюда"
-    },
-    {
-      "id": "4",
-      "img": "https://argumentrus.ru/wp-content/uploads/8/b/3/8b317023a9e74792724d726b35af47b5.jpeg",
-      "name": "Ризотто с грибами",
-      "dsc": "Парное ризотто с лесными грибами и пармезаном",
-      "price": 3600,
-      "category": "Горячие Блюда"
-    },
-    {
-      "id": "5",
-      "img": "https://baracatmar.com/wp-content/uploads/2024/01/%D0%BE%D1%81%D0%B5%D1%82%D1%80-%D1%84%D0%B8%D0%BB%D0%B5.jpg",
-      "name": "Филе осетра",
-      "dsc": "Филе осетра на гриле с лимонным соусом",
-      "price": 7200,
-      "category": "Горячие Блюда"
-    },
-    {
-      "id": "6",
-      "img": "https://honey-way.ru/wp-content/uploads/3/1/c/31ca562d3f2adbbd299ddebb22ebd84f.jpeg",
-      "name": "Паста карбонара",
-      "dsc": "Итальянская паста с беконом, яйцом, сливками и пармезаном",
-      "price": 2400,
-      "category": "Горячие Блюда"
-    },
-    {
-      "id": "7",
-      "img": "https://cake-dance.ru/wp-content/uploads/7/3/4/734f4dd223c9ca7b925999b96f4eec0e.jpeg",
-      "name": "Цезарь с курицей",
-      "dsc": "Салат Цезарь с кусочками куриного мяса, пармезаном и хрустящими сухариками",
-      "price": 2700,
-      "category": "Салаты"
-    },
-    {
-      "id": "8",
-      "img": "https://i1.photo.2gis.com/images/branch/0/30258560056399134_f4bd.jpg",
-      "name": "Греческий салат",
-      "dsc": "Свежий греческий салат с оливками, помидорами, огурцами и фетой",
-      "price": 2100,
-      "category": "Салаты"
-    },
-    {
-      "id": "9",
-      "img": "https://podacha-blud.com/uploads/posts/2022-12/1670429101_88-podacha-blud-com-p-salat-nisuaz-foto-93.jpg",
-      "name": "Салат Нисуаз",
-      "dsc": "Классический французский салат с тунцом, яйцами и оливками",
-      "price": 3200,
-      "category": "Салаты"
-    },
-    {
-      "id": "10",
-      "img": "https://italoamericano.org/wp-content/uploads/2020/08/Antonino-Danna-1024x683.jpg",
-      "name": "Салат Капрезе",
-      "dsc": "Итальянский салат с помидорами, моцареллой и базиликом",
-      "price": 2700,
-      "category": "Салаты"
-    },
-    {
-      "id": "11",
-      "img": "http://ampir-club.ru/userfiles/shop/large/1304_salat-s-rostbifom.jpg",
-      "name": "Салат с ростбифом",
-      "dsc": "Салат с ростбифом, оливками, помидорами и перепелиными яйцами, заправленный соусом на выбор",
-      "price": 3200,
-      "category": "Салаты"
-    },
-    {
-      "id": "12",
-      "img": "https://i.pinimg.com/originals/e1/b8/d6/e1b8d65b9554ce589ac81f4d9b98624e.jpg",
-      "name": "Брускетта с помидорами",
-      "dsc": "Хрустящий багет, запеченный с помидорами, базиликом и оливковым маслом",
-      "price": 2400,
-      "category": "Закуски"
-    },
-    {
-      "id": "14",
-      "img": "https://static.tildacdn.com/tild3765-6538-4736-b534-353834653163/IMG_9458.jpg",
-      "name": "Брускетта с авокадо",
-      "dsc": "Хрустящий багет, запеченный с авокадо, лимонным соком и перцем",
-      "price": 2600,
-      "category": "Закуски"
-    },
-    {
-      "id": "15",
-      "img": "https://p1.zoon.ru/preview/-b_DYrUk74Qam77m4aw8sQ/1600x1200x75/1/0/c/original_60fae74148e39b65261bf415_61c08ddd41ba9.jpg",
-      "name": "Маргарита",
-      "dsc": "Пицца с томатным соусом, моцареллой и свежими томатами",
-      "price": 4200,
+"price": 4200,
       "category": "Пицца"
     },
     {
@@ -195,6 +84,30 @@
       "dsc": "Итальянская паста с беконом, яйцом, сливками и пармезаном",
       "price": 2400,
       "category": "Горячие Блюда"
+    },
+    {
+      "id": "7",
+      "img": "https://cake-dance.ru/wp-content/uploads/7/3/4/734f4dd223c9ca7b925999b96f4eec0e.jpeg",
+      "name": "Цезарь с курицей",
+      "dsc": "Салат Цезарь с кусочками куриного мяса, пармезаном и хрустящими сухариками",
+      "price": 2700,
+      "category": "Салаты"
+    },
+    {
+      "id": "10",
+      "img": "https://italoamericano.org/wp-content/uploads/2020/08/Antonino-Danna-1024x683.jpg",
+      "name": "Салат Капрезе",
+      "dsc": "Итальянский салат с помидорами, моцареллой и базиликом",
+      "price": 2700,
+      "category": "Салаты"
+    },
+    {
+      "id": "21",
+      "img": "https://argumentrus.ru/wp-content/uploads/f/1/b/f1be4f9de166c6b47fc503fd0b3eb124.jpeg",
+      "name": "Ягодный лимонад",
+      "dsc": "Лимонад с ягодами и лимоном, подается со льдом",
+      "price": 2000,
+      "category": "Лимонады"
     }
   ]
 }
